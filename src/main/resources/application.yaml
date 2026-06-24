@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-web-flux-elastic-search
+  elasticsearch:
+    uris: http://localhost:9200
